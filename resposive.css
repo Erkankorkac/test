@@ -34,7 +34,15 @@
     html {
      font-size: 14px;
      }
-   
+   .footer-one-bottom-section-item{
+     max-width: 55px;
+   }
+.company img{
+  max-width: 75px;
+}
+.section-input-text {
+padding: 2rem;
+}
      header{
          background-color: #fff;
      }
@@ -92,7 +100,7 @@
 
     }
     .section-input-kapsa{
-     
+     margin: 1rem;
       display: grid;
       grid-template-columns: 1fr;
       grid-template-rows: none;
