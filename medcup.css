@@ -111,12 +111,12 @@ section{
   flex-wrap: nowrap;
     font-family: Inter,sans-serif;
    
-   
-     flex-wrap: wrap;
+
 
 }
 .section-text1 {
  padding: 1rem;
+ padding-left: 3rem;
 
 }
 .section-text1 h1 {
@@ -143,7 +143,7 @@ box-shadow: 2px 8px 12px 1px rgba(48,48,48,.1)!important;
 }
 .slide-image{
 
-    padding-left: 6rem;
+    padding-left: 3.5rem;
 }
 
 
@@ -255,8 +255,8 @@ select{
     display: inline-flex;
     justify-content: space-between;
     flex-wrap: wrap;
-    gap: 1rem;
-    margin: 0rem 2rem;
+    gap: 1.3rem;
+    margin: 0rem 3rem;
 }
 .cards-container{
     box-shadow: 2px 8px 12px 1px rgba(48,48,48,.1)!important;
@@ -563,7 +563,7 @@ margin-top: 3rem;
     display: flex;
     justify-content: center;
     font-size: 100%;
-    font-size: 1.1rem;
+   
 }
 .section-input-text h3{
     width: 100%;
@@ -585,7 +585,7 @@ margin-top: 3rem;
     background-color: #fff;
     border-radius: 8px;
     padding: 2rem;
-    margin: 1rem;
+    margin: 2.5rem;
     
 }
 .section-input-kapsa input{
@@ -725,7 +725,7 @@ font-size: 1.2rem;
     max-width: 1366px;
 }
 .footer-one-bottom-section-container{
-    padding: .9rem 0;
+    padding:1rem 1.5rem;
     display: flex;
     justify-content: center;
 }
