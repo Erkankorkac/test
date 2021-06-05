@@ -97,7 +97,7 @@ padding: 0 .4rem;
 
 }
 /*section*/
-section{
+.section-container{
     background-image: url(pattern.svg);
   background-size: cover;
   
@@ -109,14 +109,10 @@ section{
   display: inline-flex;
   justify-content: space-around;
   flex-wrap: nowrap;
+  align-items: center;
     font-family: Inter,sans-serif;
    
 
-
-}
-.section-text1 {
- padding: 1rem;
- padding-left: 3rem;
 
 }
 .section-text1 h1 {
@@ -728,6 +724,10 @@ font-size: 1.2rem;
     padding:1rem 1.5rem;
     display: flex;
     justify-content: center;
+}
+.container-global {
+    padding-left: 3rem;
+    padding-right: 3rem;
 }
 .footer-one-bottom-section{
     align-items: center;
