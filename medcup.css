@@ -368,8 +368,8 @@ max-width: 388px;
 .section3-kapsa{
     text-align: center;
   
-    padding-left: 1rem;
-    padding-right: 1rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     
 } 
 .section3-kapsa h3{
@@ -525,7 +525,7 @@ margin-top: 3rem;
     justify-content: center;
     opacity: .7;
     margin-top: 1rem;
-    padding: 1rem;
+
 
  
 }

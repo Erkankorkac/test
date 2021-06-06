@@ -12,17 +12,28 @@
       padding: 4px;
       width: 30px;
     }
-    .section-list-text h3{
-      font-size: 8px;
-    }
+    
+    .card-1 {
+      padding: 0rem;
   
    }
+ 
    @media only screen and (max-width:576px ) {
     html {
      font-size: 10px;
      }
-   
-      
+     .section-input-text h3{
+      font-size: 20px;
+    }
+    .section-list-text h2{
+      font-size: 20px;
+    }
+    .section-title h3{
+      font-size: 20px;
+    }
+    .section-list-text h3{
+      font-size: 20px;
+    }
   
    }
    @media only screen and (max-width:768px ) {
@@ -162,7 +173,10 @@ padding: 2rem;
     html {
      font-size: 15px;
      }
-     
+     .section3-kapsa{
+       padding-left: 1rem;
+       padding-right: 1rem;
+     }
   
     
    }
@@ -190,7 +204,7 @@ padding: 2rem;
     .footer-one-top-section{
     
     width: 92.5%;
-}
+    }
+ }
 
-}
-
+ 
