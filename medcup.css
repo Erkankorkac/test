@@ -111,7 +111,7 @@ padding: 0 .4rem;
   flex-wrap: nowrap;
   align-items: center;
     font-family: Inter,sans-serif;
-   
+   width: 100%;
 
 
 }
@@ -137,7 +137,10 @@ min-width: 240px;
 max-width: 566px;
 box-shadow: 2px 8px 12px 1px rgba(48,48,48,.1)!important;
 }
-
+.button1-container {
+    padding: 1rem;
+    margin-bottom: 12px;
+}
 
 
 
@@ -267,14 +270,14 @@ padding: 0rem .9rem;
 align-content: space-between;
 }
 .cards-img img{
-    border-radius: 5px;
+    border-radius: 8px;
     height: 100%;
-
+padding: .2rem;
    
  
  }
 .card-2 h4{
-
+    word-break: break-all;
 width: 100%;
 
 }
@@ -376,9 +379,9 @@ max-width: 388px;
     font-size: 1.953rem;
 }
 .section3-kapsa p{
-    margin-bottom: 1rem;
+    padding-bottom: 3rem;
     text-align: left;
-    padding:1rem 2rem;
+   
     line-height: 1.75;
     opacity: .8;
     text-indent:20px
