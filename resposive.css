@@ -1,210 +1,179 @@
-@media only screen and (max-width:0px ) {
-   html {
+@media only screen and (max-width:0px) {
+  html {
     font-size: 8px;
-    }
-
   }
-  @media only screen and (max-width:320px ) {
-    html {
-     font-size: 8px;
-     }
-     .social-one{
-      padding: 4px;
-      width: 30px;
-    }
-    
-    .card-1 {
-      padding: 0rem;
-  
-   }
- 
-   @media only screen and (max-width:576px ) {
-    html {
-     font-size: 10px;
-     }
-     .section-input-text h3{
-      font-size: 20px;
-    }
-    .section-list-text h2{
-      font-size: 20px;
-    }
-    .section-title h3{
-      font-size: 20px;
-    }
-    .section-list-text h3{
-      font-size: 20px;
-    }
-  
-   }
-   @media only screen and (max-width:768px ) {
-    html {
-     font-size: 12px;
-     }
+}
 
-     .section-list-text h3{
+@media only screen and (max-width:320px) {
+  html {
+    font-size: 8px;
+  }
+  .social-one {
+    padding: 4px;
+    width: 30px;
+  }
+  .card-1 {
+    padding: 0rem;
+  }
+}
+  @media only screen and (max-width:576px) {
+    html {
+      font-size: 10px;
+    }
+    .section-input-text h3 {
+      font-size: 20px;
+    }
+    .section-list-text h2 {
+      font-size: 20px;
+    }
+    .section-title h3 {
+      font-size: 20px;
+    }
+    .section-list-text h3 {
+      font-size: 20px;
+    }
+  }
+  @media only screen and (max-width:768px) {
+    html {
       font-size: 12px;
     }
-   
-   }
-   @media only screen and (max-width:992px ) {
+    .section-list-text h3 {
+      font-size: 12px;
+    }
+  }
+  @media only screen and (max-width:992px) {
     html {
-     font-size: 14px;
-     }
-     .footer-one-top-section {
+      font-size: 14px;
+    }
+    .footer-one-top-section {
       grid-template-columns: 1fr
-     }
-   .footer-one-bottom-section-item{
-     max-width: 55px;
-   }
-.company img{
-  max-width: 75px;
-}
-.section-input-text {
-padding: 2rem;
-}
-     header{
-         background-color: #fff;
-     }
-     .header-container{
-        display: none;
     }
-    .header-responsive-container{
-      display: inline-flex;
-   
-
-    
+    .footer-one-bottom-section-item {
+      max-width: 55px;
     }
-    .footer-container{
-      padding: 1rem 2rem;
+    .company img {
+      max-width: 75px;
     }
- .bg-white-container{
- padding:.5rem 1.3rem;
- }
-    .section-container{
- 
-    display: block;
-    justify-content: space-around;
-    align-items: center;
-    text-align: center;
+    .section-input-text {
+      padding: 2rem;
     }
-    .slide-image{
-      padding: 0;
+    header {
+      background-color: #fff;
     }
-    .slide-image img{
-      min-width: 65px;
- width: 100%;
-    }
-    .social-container{
+    .header-container {
       display: none;
     }
-    .section-map-item{
-   max-height: 250px;
-   padding-top: 1.5rem;
-
+    .header-responsive-container {
+      display: inline-flex;
     }
-    .section-list{
-
+    .footer-container {
+      padding: 1rem 2rem;
+    }
+    .bg-white-container {
+      padding: .5rem 1.3rem;
+    }
+    .section-container {
+      display: block;
+      justify-content: space-around;
+      align-items: center;
+      text-align: center;
+    }
+    .slide-image {
+      padding: 0;
+    }
+    .slide-image img {
+      min-width: 65px;
+      width: 100%;
+    }
+    .social-container {
+      display: none;
+    }
+    .section-map-item {
+      max-height: 250px;
+      padding-top: 1.5rem;
+    }
+    .section-list {
       display: block;
     }
-
-    .section-button-c{
-
-   align-items: center;
+    .section-button-c {
+      align-items: center;
     }
-    .card-text1{
+    .card-text1 {
       display: none;
     }
     .card-dört-text-kapsa {
-      grid-template-columns:1fr;
-
+      grid-template-columns: 1fr;
     }
-    .section-input-kapsa{
-     margin: 1rem;
+    .section-input-kapsa {
+      margin: 1rem;
       display: grid;
       grid-template-columns: 1fr;
       grid-template-rows: none;
       grid-gap: 30px;
       gap: 30px;
     }
-    .e-form-inline{
+    .e-form-inline {
       display: block;
-  }
-  .button-input{
-  
-  padding: 8px 12px;
-  }
-  .input-button{
- width: auto;
- position: relative;
-    top: -10px;
-    right: 10px;
-
-  }
-
-  .input-section-kapsa-2{
-    display: block;
-  }
-  textarea{
-    width: 100%;
-  }
-
-  .footer-one-top-section-center{
-  display: none;
-  }
-  .footer-one-top-section-right{
-   display: none;
-  }
-
-  .footer-one-top-section-left{
-    margin: 0 auto;
-    width: 92.5%;
-   }
-   .products {
-    justify-content: center;
-}
-   }
-   .text-dark{
-     padding: 0 2rem;
-   }
-   .section-list-text h3{
-     font-size: 14px;
-   }
-   @media only screen and (max-width:1200px ) {
-    html {
-     font-size: 15px;
-     }
-     .section3-kapsa{
-       padding-left: 1rem;
-       padding-right: 1rem;
-     }
-  
-    
-   }
-   @media only screen and (max-width:1400px ) {
-    html {
-     font-size: 15px;
-     }
-   }
-
-
-
-
-
-
-
-   @media only screen and (min-width: 1200px){
-     .section-container{
-      margin: 0 auto!important;
-     }
-     textarea {
-      width: 100%;
-  }
-   } 
-   @media only screen and (min-width: 576px){
-    .footer-one-top-section{
-    
-    width: 92.5%;
     }
- }
-
- 
+    .button-input {
+      padding: 8px 12px;
+    }
+    .input-button {
+      width: auto;
+      position: relative;
+      top: -10px;
+      right: 10px;
+    }
+    .input-section-kapsa-2 {
+      display: block;
+    }
+    textarea {
+      width: 100%;
+    }
+    .footer-one-top-section-center {
+      display: none;
+    }
+    .footer-one-top-section-right {
+      display: none;
+    }
+    .footer-one-top-section-left {
+      margin: 0 auto;
+      width: 92.5%;
+    }
+    .products {
+      justify-content: center;
+    }
+  }
+  .text-dark {
+    padding: 0 2rem;
+  }
+  .section-list-text h3 {
+    font-size: 14px;
+  }
+  @media only screen and (max-width:1200px) {
+    html {
+      font-size: 15px;
+    }
+    .section3-kapsa {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+  }
+  @media only screen and (max-width:1400px) {
+    html {
+      font-size: 15px;
+    }
+  }
+  @media only screen and (min-width: 1200px) {
+    .section-container {
+      margin: 0 auto!important;
+    }
+    textarea {
+      width: 100%;
+    }
+  }
+  @media only screen and (min-width: 576px) {
+    .footer-one-top-section {
+      width: 92.5%;
+    }
+  }
